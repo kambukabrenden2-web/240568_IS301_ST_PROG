@@ -11,6 +11,7 @@ int main(){
 
 //your program statements goes here
 
+
     // Constants
     const float TV_PRICE = 400.00;
     const float MONITOR_PRICE = 220.00;
